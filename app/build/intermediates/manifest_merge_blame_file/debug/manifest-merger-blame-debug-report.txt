@@ -1,0 +1,128 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.developers.mojimaster2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml
+10
+11    <!-- permission requires for persisted job in JobScheduler -->
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:6:5-81
+12-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:6:22-78
+13
+14    <application
+14-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:8:5-54:19
+15        android:allowBackup="true"
+15-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] /home/eldho/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:14:9-40
+25        <meta-data
+25-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:15:9-97
+26            android:name="fontProviderRequests"
+26-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:15:20-55
+27            android:value="Noto Color Emoji Compat" />
+27-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:15:56-95
+28
+29        <activity
+29-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:16:9-26:20
+30            android:name="com.google.developers.mojimaster2.MainActivity"
+30-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:17:13-41
+31            android:label="@string/app_name"
+31-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:18:13-45
+32            android:theme="@style/AppTheme.NoActionBar" >
+32-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:19:13-56
+33            <intent-filter>
+33-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:20:13-23:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:21:17-69
+34-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:21:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:22:17-77
+36-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:22:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:27:9-35:20
+40            android:name="com.google.developers.mojimaster2.SmileyListActivity"
+40-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:28:13-47
+41            android:label="@string/activity_smiley_list"
+41-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:29:13-57
+42            android:parentActivityName="com.google.developers.mojimaster2.MainActivity" >
+42-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:30:13-55
+43            <meta-data
+43-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:32:13-34:82
+44                android:name="android.support.PARENT_ACTIVITY"
+44-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:33:17-63
+45                android:value="com.google.developers.mojimaster2.MainActivity" />
+45-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:34:17-79
+46        </activity>
+47        <activity
+47-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:36:9-45:20
+48            android:name="com.google.developers.mojimaster2.AddSmileyActivity"
+48-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:37:13-46
+49            android:label="@string/activity_add_smiley"
+49-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:38:13-56
+50            android:parentActivityName="com.google.developers.mojimaster2.SmileyListActivity" >
+50-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:39:13-61
+51            <meta-data
+51-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:32:13-34:82
+52                android:name="android.support.PARENT_ACTIVITY"
+52-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:33:17-63
+53                android:value="com.google.developers.mojimaster2.SmileyListActivity" />
+53-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:34:17-79
+54        </activity>
+55        <activity
+55-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:46:9-51:20
+56            android:name="com.google.developers.mojimaster2.SettingActivity"
+56-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:47:13-44
+57            android:label="@string/title_activity_setting"
+57-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:48:13-59
+58            android:parentActivityName="com.google.developers.mojimaster2.MainActivity" >
+58-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:49:13-55
+59        </activity>
+60
+61        <service
+61-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:52:9-53:72
+62            android:name="com.google.developers.mojimaster2.service.NotificationJobService"
+62-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:52:18-64
+63            android:permission="android.permission.BIND_JOB_SERVICE" />
+63-->/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/AndroidManifest.xml:53:13-69
+64        <service
+64-->[androidx.room:room-runtime:2.2.2] /home/eldho/.gradle/caches/transforms-2/files-2.1/94466ed596486e3202c078339ef13706/room-runtime-2.2.2/AndroidManifest.xml:25:9-27:40
+65            android:name="androidx.room.MultiInstanceInvalidationService"
+65-->[androidx.room:room-runtime:2.2.2] /home/eldho/.gradle/caches/transforms-2/files-2.1/94466ed596486e3202c078339ef13706/room-runtime-2.2.2/AndroidManifest.xml:26:13-74
+66            android:exported="false" />
+66-->[androidx.room:room-runtime:2.2.2] /home/eldho/.gradle/caches/transforms-2/files-2.1/94466ed596486e3202c078339ef13706/room-runtime-2.2.2/AndroidManifest.xml:27:13-37
+67
+68        <provider
+68-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/eldho/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+69            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/eldho/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+70            android:authorities="com.google.developers.mojimaster2.lifecycle-process"
+70-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/eldho/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+71            android:exported="false"
+71-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/eldho/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+72            android:multiprocess="true" />
+72-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/eldho/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+73    </application>
+74
+75</manifest>

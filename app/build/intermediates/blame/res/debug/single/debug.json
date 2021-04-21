@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/layout_answer_item.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/layout/answer_item.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/drawable_ic_list.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/drawable/ic_list.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/drawable_ic_refresh.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/layout_activity_add_smiley.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/layout/activity_add_smiley.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/raw_emoji.json.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/raw/emoji.json"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/drawable_ic_mood.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/drawable/ic_mood.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/drawable_ic_save.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/drawable/ic_save.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/drawable_ic_add.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/layout_activity_smileys.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/layout/activity_smileys.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/layout_rviewlistitem.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/layout/rviewlistitem.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/eldho/Desktop/fun/Apps/quiz app/app/build/intermediates/res/merged/debug/drawable_ic_add_circle.xml.flat",
+        "source": "/home/eldho/Desktop/fun/Apps/quiz app/app/src/main/res/drawable/ic_add_circle.xml"
+    }
+]
